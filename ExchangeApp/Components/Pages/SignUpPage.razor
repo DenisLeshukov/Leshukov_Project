@@ -1,0 +1,70 @@
+﻿@page "/SignUpPage"
+@using ExchangeApp.Other
+@inject UrlAddress client
+@using ExchangeApp.Shared.DTOs
+
+
+<div class="signup-page">
+    <header class="page-header">
+        <h1>Регистрация</h1>
+    </header>
+    <main class="signup-container">
+     
+        <div class="avatar-image">
+            <p>Выберите фото (по желанию)</p>
+            <div class="image-icon"></div>
+        </div>
+        <div class="input-fields">
+            <div class="input-container">
+                <p>Имя</p>
+                <input @bind="user.Name" @bind:event="oninput" class="input-field" type="text" placeholder="Как к вам обращаться?"/>
+            </div>
+            <div class="input-container">
+                <p>Пароль</p>
+                <input @bind="password" @bind:event="oninput" class="input-field" type="password" placeholder="Не менее 8 символов" />
+             </div>
+            <div class="input-container">
+                <p>Повторите пароль</p>
+                <input @bind="confirmPassword" @bind:event="oninput" class="input-field" type="password" />
+             </div>
+             <div class="input-phone-container">
+                <p>Номер для связи</p>
+                <input @bind="user.Phone"  class="input-field-phone" @bind:event="oninput" type="tel" placeholder="+7 (123) 456-78-90" />
+            </div>
+        </div>
+    </main>
+    <footer>
+        <button @onclick="Register" class="register-button">Зарегистрироваться</button>
+    </footer>
+</div>
+
+@code {
+    private string password = "d";
+    private string confirmPassword = "d";
+    private UserDTO user = new UserDTO();
+    private async Task Register()
+    {
+        try
+        {
+
+
+            if (password != confirmPassword)
+            {
+                return;
+            }
+
+            user.Password = confirmPassword;
+            var response = await client.httpClient.PostAsJsonAsync("api/v1/auth/register", user);
+            
+            if (!response.IsSuccessStatusCode)
+            {
+                var details = await response.Content.ReadAsStringAsync();
+                System.Diagnostics.Debug.WriteLine(details); // <-- Покажет точное поле, например: "The Email field is required"
+            }
+        }
+        catch(Exception ex)
+        {
+            System.Diagnostics.Debug.WriteLine($"ОШИБКА СЕТИ: {ex.Message}");
+        }
+    }
+}

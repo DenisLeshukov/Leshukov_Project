@@ -1,0 +1,11 @@
+C:\Users\Leshu\source\repos\ExchangeApp.Shared\bin\Debug\net9.0\ExchangeApp.Shared.deps.json
+C:\Users\Leshu\source\repos\ExchangeApp.Shared\bin\Debug\net9.0\ExchangeApp.Shared.dll
+C:\Users\Leshu\source\repos\ExchangeApp.Shared\bin\Debug\net9.0\ExchangeApp.Shared.pdb
+C:\Users\Leshu\source\repos\ExchangeApp.Shared\obj\Debug\net9.0\ExchangeApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leshu\source\repos\ExchangeApp.Shared\obj\Debug\net9.0\ExchangeApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Leshu\source\repos\ExchangeApp.Shared\obj\Debug\net9.0\ExchangeApp.Shared.AssemblyInfo.cs
+C:\Users\Leshu\source\repos\ExchangeApp.Shared\obj\Debug\net9.0\ExchangeApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Leshu\source\repos\ExchangeApp.Shared\obj\Debug\net9.0\ExchangeApp.Shared.dll
+C:\Users\Leshu\source\repos\ExchangeApp.Shared\obj\Debug\net9.0\refint\ExchangeApp.Shared.dll
+C:\Users\Leshu\source\repos\ExchangeApp.Shared\obj\Debug\net9.0\ExchangeApp.Shared.pdb
+C:\Users\Leshu\source\repos\ExchangeApp.Shared\obj\Debug\net9.0\ref\ExchangeApp.Shared.dll

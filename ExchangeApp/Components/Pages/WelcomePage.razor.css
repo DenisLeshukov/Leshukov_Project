@@ -1,0 +1,85 @@
+﻿*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.welcome-page{
+    min-height:100vh;
+    min-height:100dvh;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    align-items:center;
+    width:100%;
+
+}
+.image-icon {
+    background-color: aqua;
+    color: aqua;
+
+    height: 250px;
+    width: 250px;
+    z-index:20;
+    margin-top:-100px;
+}
+.login-button {
+    height: 54px;
+    border: none;
+    border-radius: 15px;
+    background-color: #A8CA42;
+    width:100%;
+    max-width:295px;
+}
+.register-button {
+    height: 54px;
+    border: none;
+    border-radius: 15px;
+    background-color: #5C5C5C;
+    width: 100%;
+    max-width: 295px;
+}
+footer{
+    padding: 0 33px 36px 33px;
+    width:100%;
+    align-items:center;
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+}
+
+.page-header {
+    background-color: #A8CA42; 
+    width: 100%;
+    padding: 40px 33px 180px 33px; 
+    box-sizing: border-box;
+    
+    border-radius: 0 0 0 0;
+    border-bottom-right-radius: 100% 180px;
+   
+    position:relative;
+    z-index:1;
+}
+
+
+.page-header h3 {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0;
+    color: #000; 
+     
+    max-width: 200px;
+    line-height: 1.2;
+}
+
+main {
+    position:relative;
+    
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
+    
+}
+
+
+

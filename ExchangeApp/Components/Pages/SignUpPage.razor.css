@@ -1,0 +1,139 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.signup-page {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    min-height: 100dvh;
+    background-color: #fff;
+}
+
+.page-header {
+    background-color: #A8CA42;
+    width: 100%;
+    padding: 40px 33px 180px 33px;
+    border-bottom-right-radius: 100% 180px;
+    position: relative;
+    z-index: 1;
+}
+
+    .page-header h1 {
+        font-size: 32px;
+        font-weight: bold;
+        margin: 0;
+        color: #000;
+    }
+
+.signup-container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    flex: 1;
+    z-index:2;
+    gap:60px;
+}
+
+
+.avatar-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+    max-width: 325px;
+    width: 100%;
+    gap: 10px;
+    margin-top:-120px;
+}
+
+    .avatar-image p {
+        display: block;
+        width: 100%;
+        text-align: left;
+        margin: 0;
+    }
+
+.image-icon {
+    background-image: url("../images/Photo.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 140px;
+    height: 140px;
+    z-index: 10;
+}
+
+
+
+.input-fields {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    max-width: 325px;
+    width: 100%;
+    min-height: 50px;
+    margin-top: 20px;
+}
+
+    .input-fields input {
+        width: 100%;
+        height: 50px;
+        border-radius: 10px;
+        border: none;
+        background-color: #D9D9D9;
+        padding: 0 16px;
+        font-size: 16px;
+    }
+
+.input-field {
+    width: 100%;
+    max-width: 325px;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+    max-width: 325px;
+}
+
+.input-phone-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    max-width: 250px;
+}
+
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 15px;
+}
+
+.register-button {
+    width: 100%;
+    max-width: 295px;
+    height: 54px;
+    border-radius: 10px;
+    border: none;
+    background-color: #A8CA42;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom:20px;
+    margin-top:100px;
+}

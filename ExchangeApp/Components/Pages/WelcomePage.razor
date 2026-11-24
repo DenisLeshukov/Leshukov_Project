@@ -1,0 +1,28 @@
+﻿@page "/"
+@inject NavigationManager Navigation
+<div class="welcome-page">
+    
+    <header class="page-header">
+        <h3>Добро пожаловать!</h3>
+    </header>
+    <main>
+         <div class="image-icon"></div>
+    </main>
+    <footer class="page-footer">
+        <button @onclick="GoToRegister"
+            class="register-button">Регистрация</button>
+        <button @onclick="GoToLogin"
+                class="login-button">Вход</button>
+    </footer>
+   
+</div>
+@code {
+    public void GoToRegister()
+    {
+        Navigation.NavigateTo("/SignUpPage");
+    }
+    public void GoToLogin()
+    {
+        Navigation.NavigateTo("/loginPage");
+    }
+}
