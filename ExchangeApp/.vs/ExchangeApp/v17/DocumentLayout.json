@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF221498-B8CC-4933-9E81-90A428BAD909}|..\\ExchangeApp.API\\ExchangeApp.API.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0798DA-9CF3-4BC6-AD07-8F15C2022823}|ExchangeApp.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp\\other\\urladdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0798DA-9CF3-4BC6-AD07-8F15C2022823}|ExchangeApp.csproj|solutionrelative:other\\urladdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0798DA-9CF3-4BC6-AD07-8F15C2022823}|ExchangeApp.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp\\components\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C0798DA-9CF3-4BC6-AD07-8F15C2022823}|ExchangeApp.csproj|solutionrelative:components\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF221498-B8CC-4933-9E81-90A428BAD909}|..\\ExchangeApp.API\\ExchangeApp.API.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp.api\\services\\urladdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF221498-B8CC-4933-9E81-90A428BAD909}|..\\ExchangeApp.API\\ExchangeApp.API.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp.api\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF221498-B8CC-4933-9E81-90A428BAD909}|..\\ExchangeApp.API\\ExchangeApp.API.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF221498-B8CC-4933-9E81-90A428BAD909}|..\\ExchangeApp.API\\ExchangeApp.API.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp.api\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0798DA-9CF3-4BC6-AD07-8F15C2022823}|ExchangeApp.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp\\components\\pages\\signuppage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C0798DA-9CF3-4BC6-AD07-8F15C2022823}|ExchangeApp.csproj|solutionrelative:components\\pages\\signuppage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6086A349-8CA1-4ED4-889D-4FE4657E56F8}|..\\ExchangeApp.Shared\\ExchangeApp.Shared.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp.shared\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6086A349-8CA1-4ED4-889D-4FE4657E56F8}|..\\ExchangeApp.Shared\\ExchangeApp.Shared.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp.shared\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0798DA-9CF3-4BC6-AD07-8F15C2022823}|ExchangeApp.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp\\components\\pages\\signuppage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9C0798DA-9CF3-4BC6-AD07-8F15C2022823}|ExchangeApp.csproj|solutionrelative:components\\pages\\signuppage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0798DA-9CF3-4BC6-AD07-8F15C2022823}|ExchangeApp.csproj|c:\\users\\leshu\\source\\repos\\exchange\\exchangeapp\\components\\pages\\loginpage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9C0798DA-9CF3-4BC6-AD07-8F15C2022823}|ExchangeApp.csproj|solutionrelative:components\\pages\\loginpage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ExchangeApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\Program.cs",
+              "RelativeToolTip": "..\\ExchangeApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:23:40.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.razor",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp\\Components\\Pages\\LoginPage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\LoginPage.razor",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp\\Components\\Pages\\LoginPage.razor",
+              "RelativeToolTip": "Components\\Pages\\LoginPage.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T18:18:35.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUpPage.razor",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp\\Components\\Pages\\SignUpPage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SignUpPage.razor",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp\\Components\\Pages\\SignUpPage.razor",
+              "RelativeToolTip": "Components\\Pages\\SignUpPage.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T18:19:22.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\Controllers\\Auth.cs",
+              "RelativeDocumentMoniker": "..\\ExchangeApp.API\\Controllers\\Auth.cs",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\Controllers\\Auth.cs",
+              "RelativeToolTip": "..\\ExchangeApp.API\\Controllers\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:17:38.342Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrlAddress.cs",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp\\Other\\UrlAddress.cs",
+              "RelativeDocumentMoniker": "Other\\UrlAddress.cs",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp\\Other\\UrlAddress.cs",
+              "RelativeToolTip": "Other\\UrlAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:30:10.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrlAddress.cs",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\Services\\UrlAddress.cs",
+              "RelativeDocumentMoniker": "..\\ExchangeApp.API\\Services\\UrlAddress.cs",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\Services\\UrlAddress.cs",
+              "RelativeToolTip": "..\\ExchangeApp.API\\Services\\UrlAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:29:39.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\ExchangeApp.API\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "..\\ExchangeApp.API\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:56:43.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.Shared\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\ExchangeApp.Shared\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.Shared\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "..\\ExchangeApp.Shared\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:20:28.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\ExchangeApp.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\ExchangeApp.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:19:58.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.Shared\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\ExchangeApp.Shared\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.Shared\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "..\\ExchangeApp.Shared\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:20:54.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignUpPage.razor.css",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp\\Components\\Pages\\SignUpPage.razor.css",
+              "RelativeDocumentMoniker": "Components\\Pages\\SignUpPage.razor.css",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp\\Components\\Pages\\SignUpPage.razor.css",
+              "RelativeToolTip": "Components\\Pages\\SignUpPage.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-25T18:19:22.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPage.razor.css",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp\\Components\\Pages\\LoginPage.razor.css",
+              "RelativeDocumentMoniker": "Components\\Pages\\LoginPage.razor.css",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp\\Components\\Pages\\LoginPage.razor.css",
+              "RelativeToolTip": "Components\\Pages\\LoginPage.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-25T18:18:50.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

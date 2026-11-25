@@ -9,7 +9,7 @@ public partial class User
 
     public string Name { get; set; } = null!;
 
-    public string Email { get; set; } = null!;
+    public string? Email { get; set; } = null!;
 
     public string Phone { get; set; } = null!;
 
@@ -19,7 +19,7 @@ public partial class User
 
     public DateOnly RegistrationDate { get; set; }
 
-    public string PhotoUrl { get; set; } = null!;
+    public string? PhotoUrl { get; set; } = null!;
 
     public virtual ICollection<Advert> Adverts { get; set; } = new List<Advert>();
 

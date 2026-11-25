@@ -59,7 +59,7 @@
             if (!response.IsSuccessStatusCode)
             {
                 var details = await response.Content.ReadAsStringAsync();
-                System.Diagnostics.Debug.WriteLine(details); // <-- Покажет точное поле, например: "The Email field is required"
+                System.Diagnostics.Debug.WriteLine(details); 
             }
         }
         catch(Exception ex)

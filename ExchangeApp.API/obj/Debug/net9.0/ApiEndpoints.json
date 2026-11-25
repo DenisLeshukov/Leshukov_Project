@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "ExchangeApp.API.Controllers.Auth",
+    "Method": "Login",
+    "RelativePath": "api/v1/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "ExchangeApp.Shared.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExchangeApp.API.Controllers.Auth",
     "Method": "Register",
     "RelativePath": "api/v1/auth/register",
     "HttpMethod": "POST",

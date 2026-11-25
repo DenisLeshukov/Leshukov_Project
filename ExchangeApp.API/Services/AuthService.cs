@@ -17,7 +17,7 @@ namespace ExchangeApp.API.Services
         }
         public bool RegisterUser(UserDTO user)
         {
-            
+
 
             var _user = new User
             {
@@ -29,9 +29,29 @@ namespace ExchangeApp.API.Services
                 RegistrationDate = DateOnly.FromDateTime(DateTime.Now),
                 PhotoUrl = user.PhotoUrl,
             };
-            _user.PasswordHash = _hasher.HashPassword(_user,user.Password);
+            _user.PasswordHash = _hasher.HashPassword(_user, user.Password);
             _db.Users.Add(_user);
             _db.SaveChanges();
+            return true;
+        }
+        public bool LoginUser(LoginDTO user)
+        {
+
+            var _user = _db.Users.FirstOrDefault(u => u.Phone == user.Phone);
+            if (_user == null)
+            {
+                return false;
+            }
+            var result = _hasher.VerifyHashedPassword(
+                _user,
+                _user.PasswordHash,
+                user.Password
+                );
+            if (result != PasswordVerificationResult.Success)
+            {
+                return false;
+            }
+            Console.WriteLine("norm");
             return true;
         }
     }

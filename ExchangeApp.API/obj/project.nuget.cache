@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VZLkRiLuCQA=",
+  "dgSpecHash": "0r7oaOj9O34=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leshu\\source\\repos\\ExchangeApp.API\\ExchangeApp.API.csproj",
+  "projectFilePath": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\ExchangeApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leshu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Leshu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",

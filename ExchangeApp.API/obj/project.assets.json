@@ -2901,11 +2901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leshu\\source\\repos\\ExchangeApp.API\\ExchangeApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\ExchangeApp.API.csproj",
       "projectName": "ExchangeApp.API",
-      "projectPath": "C:\\Users\\Leshu\\source\\repos\\ExchangeApp.API\\ExchangeApp.API.csproj",
+      "projectPath": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\ExchangeApp.API.csproj",
       "packagesPath": "C:\\Users\\Leshu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leshu\\source\\repos\\ExchangeApp.API\\obj\\",
+      "outputPath": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2927,8 +2927,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Leshu\\source\\repos\\ExchangeApp.Shared\\ExchangeApp.Shared.csproj": {
-              "projectPath": "C:\\Users\\Leshu\\source\\repos\\ExchangeApp.Shared\\ExchangeApp.Shared.csproj"
+            "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.Shared\\ExchangeApp.Shared.csproj": {
+              "projectPath": "C:\\Users\\Leshu\\source\\repos\\Exchange\\ExchangeApp.Shared\\ExchangeApp.Shared.csproj"
             }
           }
         }

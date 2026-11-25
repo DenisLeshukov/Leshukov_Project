@@ -21,5 +21,17 @@ namespace ExchangeApp.API.Controllers
             _service.RegisterUser(user);
             return Ok();
         }
+        [HttpPost("login")]
+        public IActionResult Login(LoginDTO user)
+        {
+            bool result = _service.LoginUser(user);
+
+            if (!result)
+            {
+                return Unauthorized();
+            }
+
+            return Ok();
+        }
     }
 }
